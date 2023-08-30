@@ -3,3 +3,6 @@ bin
 lib
 .Python
 pyvenv.cfg
+share
+.ipynb_checkpoints
+etc
